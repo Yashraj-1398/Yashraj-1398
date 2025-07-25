@@ -1,20 +1,25 @@
 👋**Hi, I'm Yashraj Rajput** 
+
 **Data Analyst | Cloud Data Enthusiast | Insights-to-Action Specialist**
+
 📍 Currently at **McKesson**, driving healthcare intelligence with Python, SQL, Tableau, and Snowflake.
 
-🧠 **About Me**
+🧠 **About Me**:
+
 I am a data analyst with over 4 years of experience transforming raw, complex datasets into impactful business insights. My work spans industries like healthcare, e-commerce, and finance, where I have delivered cost savings, operational efficiencies, and strategic decision support through data storytelling and cloud-first analytics.
 
 From building real-time ETL pipelines to automating dashboards that drive daily decisions, I bring both technical depth and business focus to every project.
 
-🚀 **What I Do Best**
+🚀 **What I Do Best**:
 * **Build Scalable Data Solutions**: Developed ETL pipelines using Python, Airflow, and AWS to automate the ingestion of over 10M+ records weekly.
 * **Deliver Actionable Insights**: Created Tableau dashboards monitoring patient care at McKesson, driving a 25% improvement in early intervention rates.
 * **Forecast and Optimize**: Applied regression, time series analysis, and cost modeling to identify $500K in annual savings.
 * **Cloud-Ready Analytics**: Skilled in using Snowflake, AWS, and Azure to deliver secure, high-performance analytics solutions.
 
 🎓 **Education**:
+
 • **Master’s in Information Systems** – Northeastern University, USA 
+
 • **Bachelor’s in Computer Science Engineering** – Walchand Institute of Technology, India
 
 🏆 **Achievements**:
