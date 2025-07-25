@@ -1,32 +1,39 @@
-## Hi Folks👋, I'm Yashraj Rajput! 
-### About me: 
-I'm an experienced professional who loves turning data into actionable insights and building innovative software solutions.  I've designed and built real-time data pipelines, custom dashboards, and software applications, leveraging technical expertise and creative problem-solving to deliver impactful results.
+👋**Hi, I'm Yashraj Rajput** 
+**Data Analyst | Cloud Data Enthusiast | Insights-to-Action Specialist**
+📍 Currently at **McKesson**, driving healthcare intelligence with Python, SQL, Tableau, and Snowflake.
 
-•	📊 Business Intelligence Analyst @Ipser Labs | 📈 Business Intelligence Analyst @Ypto(Tata Consultancy Services)
+🧠 **About Me**
+I am a data analyst with over 4 years of experience transforming raw, complex datasets into impactful business insights. My work spans industries like healthcare, e-commerce, and finance, where I have delivered cost savings, operational efficiencies, and strategic decision support through data storytelling and cloud-first analytics.
 
-•	🌐 Grace Hopper Celebration (GHC) 2023 Attendee. 
+From building real-time ETL pipelines to automating dashboards that drive daily decisions, I bring both technical depth and business focus to every project.
 
-•	👨🏽‍🎓 Graduate student from Northeastern University with a Master’s degree in Information Systems.
+🚀 **What I Do Best**
+* **Build Scalable Data Solutions**: Developed ETL pipelines using Python, Airflow, and AWS to automate the ingestion of over 10M+ records weekly.
+* **Deliver Actionable Insights**: Created Tableau dashboards monitoring patient care at McKesson, driving a 25% improvement in early intervention rates.
+* **Forecast and Optimize**: Applied regression, time series analysis, and cost modeling to identify $500K in annual savings.
+* **Cloud-Ready Analytics**: Skilled in using Snowflake, AWS, and Azure to deliver secure, high-performance analytics solutions.
 
-•	👨🏽‍🎓 Computer Science Engineer from Walchand Institute of Technology, India.
-
-•	💼 **Work Experience**: Proven expertise in data analytics, building interactive dashboards, designing data pipelines, and developing software solutions, with hands-on experience across industries such as healthcare, transportation, and e-commerce.
-
+🎓 **Education**:
+• **Master’s in Information Systems** – Northeastern University, USA 
+• **Bachelor’s in Computer Science Engineering** – Walchand Institute of Technology, India
 
 🏆 **Achievements**:
-
 •	🥇 On-the-Spot Award
 •	🌟 Best Performer Award
 
-
-•	🔍 **Currently Exploring**: Business Intelligence, Data Analyst,  Software Engineer, and Business Analyst roles.
+🏆 **Certifications**:
+• Microsoft Azure Fundamentals (AZ-900)
+• Tableau Desktop Specialist
+• Mendix Rapid Developer
 
 •	📫 How to reach me rajputyashraj1398@gmail.com
+
+🔍 **Currently Exploring**:
+I am actively learning more about AI-powered analytics, real-time data streaming, and ethical tech for social impact. Always open to collaboration, freelance analytics, and new challenges.
 
 ##
 
 "Unleash the potential of data with my expertise in crafting actionable insights through advanced Programming, robust Database Management, and innovative Cloud Solutions."
-
 
 ## Programming Languages
 
