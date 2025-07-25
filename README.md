@@ -19,7 +19,6 @@ From building real-time ETL pipelines to automating dashboards that drive daily 
 🎓 **Education**:
 
 • **Master’s in Information Systems** – Northeastern University, USA 
-
 • **Bachelor’s in Computer Science Engineering** – Walchand Institute of Technology, India
 
 🏆 **Achievements**:
